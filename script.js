@@ -3,10 +3,10 @@ const person = {
     profile_logo: "./image/noufal.jpeg",
 
     Name: "Muhammad Hanif",
-    designation: "Owner",
+    designation: "Business Consultant",
     des_link_text: "@ Naufal typing  ",
-    des_link: "",
-    contact: "./contact/Muhammad Hanif.vcf",
+    des_link: "https://www.google.com/maps/place/25%C2%B016'41.7%22N+55%C2%B018'45.7%22E/@25.2782383,55.3101044,17z/data=!3m1!4b1!4m4!3m3!8m2!3d25.2782383!4d55.3126793?hl=en&entry=ttu",
+    contact: "./contact/Hanif.vcf",
 };
 
 const contact ={
