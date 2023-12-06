@@ -1,19 +1,19 @@
 const person = {
-    profile_pic: "./image/hanif.jpeg",
-    profile_logo: "./image/noufal.jpeg",
+    profile_pic: "./image/SHAFEE 2 copy.JPG",
+    profile_logo: "./image/tssr.jpg",
 
-    Name: "Muhammad Hanif",
-    designation: "Business Consultant",
-    des_link_text: "@ Naufal typing  ",
-    des_link: "https://maps.app.goo.gl/VAFpK6c9GWXZ1DKs6",
-    contact: "./contact/Hanif.vcf",
+    Name: "Muhammed Shafeeque",
+    designation: "Chairman",
+    des_link_text: "@ TSSR COUNCIL",
+    des_link: "https://tssrcouncil.com/",
+    contact: "./contact/shafee.vcf",
 };
 
 const contact ={
-    contact_no: "+97145487687",
-    whatsapp: "+971562108012",
-    location: "https://maps.app.goo.gl/VjCtQbDWKDZjTSt46",
-    email: "Naufaltyping@gmail.com",
+    contact_no: "+918848426310",
+    whatsapp: "918848426310",
+    location: "",
+    email: "tssrcouncil@gmail.com",
 };
 
 const profilelogo=[
@@ -26,20 +26,20 @@ const profilelogo=[
 
 const links =[
     facebook={
-    visibil: false,
-    link:"https://www.facebook.com/navigotravels?mibextid=LQQJ4d"
+    visibil: true,
+    link:"https://www.facebook.com/p/TSSR-Council-100070861476546/"
   },
     instagram={
-    visibil: false,
-    link:"https://instagram.com/patta_almufrid_dubai"
+    visibil: true,
+    link:"https://www.instagram.com/tssrcouncil/"
   },
     skype={
     visibil: false,
     link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
   },
     web={
-    visibil: false,
-    link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
+    visibil: true,
+    link:"https://tssrcouncil.com"
   },
     linkedin={
     visibil: false,
@@ -55,7 +55,7 @@ const links =[
   },
     mail={
     visibil: true,
-    link:"Naufaltyping@gmail.com"
+    link:"tssrcouncil@gmail.com"
   },
     google={
     visibil: false,
